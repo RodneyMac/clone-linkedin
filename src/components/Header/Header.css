@@ -72,8 +72,20 @@
     background-color: black;
 }
 
+.user-arrow-icon {
+    margin-left: 24px;
+    margin-top: 26px;
+}
+
 .border-left {
     border-left: 1px solid #eef3f8;
+}
+
+.productos-arrow-icon {
+    margin-left: 32px;
+    position: absolute;
+    margin-top: 26px;
+    /* margin-bottom: 30px; */
 }
 
 .div-premium {
